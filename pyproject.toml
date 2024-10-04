@@ -1,0 +1,15 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Guilherme Eric", email = "guilherme.eric@outlook.com"},
+]
+dependencies = [
+    "flask>=3.0.0",
+    "flask-restful>=0.3.10",
+]
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+
